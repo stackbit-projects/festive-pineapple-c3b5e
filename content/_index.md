@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: New Year. New Identity.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      A hallowed imaginative space that has been 9 years in the making.
     actions:
       - label: Let's talk
         url: /contact
